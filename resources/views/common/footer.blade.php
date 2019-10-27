@@ -1,18 +1,10 @@
-<footer class="app-footer footer-fixed">
+<footer class="app-footer footer-fixed justify-content-between">
     <div>
-        <a href="https://coreui.io">
-            CoreUI
-        </a>
-        <span>
-            © 2018 CoreUI.
-        </span>
+        <a href="#">InvoicePlane </a>
+        <span>&copy; 2019 InvoicePlane.</span>
     </div>
-    <div class="ml-auto">
-        <span>
-            Powered by
-        </span>
-        <a href="https://coreui.io">
-            CoreUI
-        </a>
+    <div>
+        <span>Powered by</span>
+        <a href="#">CoreUI</a>
     </div>
 </footer>
